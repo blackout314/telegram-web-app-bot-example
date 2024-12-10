@@ -7,6 +7,7 @@ See live demo (with jQuery): [Attach Bot](https://t.me/asmico_attach_bot).
 * Official docs: https://core.telegram.org/bots/webapps
 * Live Demo Bot: [Attach Bot](https://t.me/asmico_attach_bot)
 * Telegram Promo Bot: [Durger King](https://t.me/durgerkingbot)
+* https://github.com/tamimattafi/telegram-mini-app
 
 ## Quick setup
 
